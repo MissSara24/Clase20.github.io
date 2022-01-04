@@ -1,2 +1,1 @@
-# Clase20.git.io
-Prueba 1
+# C20-Basico_de_motor_fisico
